@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Haiqel Aziizul hakeem</h1>
+<h1 align="center">Hi 👋, I'm Haiqel Aziizul Hakeem</h1>
 <h3 align="center">I'm an AI/Machine Learning and Data enthusiast from Indonesia and having a desire to have a career in AI/ML field.</h3>
 
 - 🌱 I’m currently learning **Power BI, TensorFlow, Talend, etc.**
